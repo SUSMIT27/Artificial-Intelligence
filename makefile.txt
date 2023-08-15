@@ -1,0 +1,2 @@
+all: trial.cpp
+	g++ -o tspcpp trial.cpp
